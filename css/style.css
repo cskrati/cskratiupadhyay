@@ -115,7 +115,7 @@ HEADER
 
 .logo-dec
 {
-    color: #00008B;
+    color: #2B60DE;
 }
 .navbar-default .navbar-brand {
     color: #fff;
@@ -226,6 +226,12 @@ h2.bnr-sub-title
 features
 ************************************
 ***********************************/
+#vision{
+  background: url('../img/vision1.jpg') no-repeat fixed;
+  background-size: cover;
+  min-height: 650px;
+  position: relative;
+}
 .title, .service-title
 {
     font-family: 'Fira Sans', sans-serif;
