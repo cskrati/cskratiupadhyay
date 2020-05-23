@@ -226,6 +226,9 @@ h2.bnr-sub-title
 features
 ************************************
 ***********************************/
+#compnayLaw, #msme, #gst, #llp, #iprSecurity, #others{
+  color: black;
+}
 #vision{
   background: url('../img/vision1.jpg') no-repeat fixed;
   background-size: cover;
