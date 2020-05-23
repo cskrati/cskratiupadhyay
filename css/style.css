@@ -1,7 +1,7 @@
 body {
 	line-height: 1.4;
 	font-family: 'Roboto', sans-serif;
-    color: #67696c;
+    color: #cccccc;
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 0.5px;
@@ -115,7 +115,7 @@ HEADER
 
 .logo-dec
 {
-    color: #2B60DE;
+    color: #F7F9F9;
 }
 .navbar-default .navbar-brand {
     color: #fff;
@@ -232,6 +232,10 @@ features
   min-height: 650px;
   position: relative;
 }
+#visionMissionText{
+  font-size: 20px;
+  font-weight: bold;
+}
 .title, .service-title
 {
     font-family: 'Fira Sans', sans-serif;
@@ -276,7 +280,8 @@ features
     line-height: 1.7;
 }
 #service
-{
+{ background: url('../img/vision1.jpg') no-repeat fixed;
+  background-size: cover;
     background-color: #F3F4F8;
 }
 #gallery
@@ -284,7 +289,8 @@ features
     background-color:#E9E9E8 ;
 }
 #portfolio
-{
+{ background: url('../img/vision1.jpg') no-repeat fixed;
+  background-size: cover;
     background-color: #F3F4F8;
 }
 #blog
